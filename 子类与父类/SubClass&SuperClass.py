@@ -30,6 +30,7 @@ class B(A):
         self.nameb="bbb"
 
     def funcb(self):
+        
         print "function b : %s"%self.nameb
 
 		
